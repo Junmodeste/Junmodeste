@@ -4,9 +4,7 @@
 
 ## Français
 
-Développeur **Odoo** (17, 18, 19). Je construis des modules, des outils et des agents IA utiles aux consultants, intégrateurs et PME d'**Afrique de l'Ouest francophone** : fiscalité ivoirienne, FCFA, montants en lettres, automatisation.
-
-Tous les modules Odoo sont testés dans Docker (`odoo:19` + `postgres:16`) et publiés sous licence LGPL-3.
+Développeur **Odoo**. Je construis des modules, des outils et des agents IA utiles aux consultants, intégrateurs et PME d'**Afrique de l'Ouest francophone** : fiscalité ivoirienne, FCFA, montants en lettres, automatisation.
 
 ### Projets
 
@@ -26,9 +24,7 @@ Python · Odoo ORM et QWeb · JavaScript (OWL) · PostgreSQL · Docker · GitHub
 
 ## English
 
-**Odoo** developer (17, 18, 19). I build modules, tools and AI agents for Odoo consultants, integrators and small businesses in **French-speaking West Africa**: Ivorian tax identifiers, FCFA, amounts in words, automation.
-
-Every Odoo module is tested in Docker (`odoo:19` + `postgres:16`) and released under LGPL-3.
+**Odoo** developer. I build modules, tools and AI agents for Odoo consultants, integrators and small businesses in **French-speaking West Africa**: Ivorian tax identifiers, FCFA, amounts in words, automation.
 
 ### Projects
 
