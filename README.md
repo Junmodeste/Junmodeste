@@ -1,4 +1,4 @@
-# Koffi Modeste Junior
+# Modeste Junior Koffi
 
 🇫🇷 [Français](#français) · 🇬🇧 [English](#english)
 
